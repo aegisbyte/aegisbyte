@@ -1,6 +1,6 @@
 ### Aegisbyte🛡️
 <p align="center">
-  <img src="https://raw.githubusercontent.com/dbt-labs/dbt-core/fa1ea14ddfb1d5ae319d5141844910dd53ab2834/etc/dbt-core.svg](https://raw.githubusercontent.com/aegisbyte/aegisbyte/01db3c8b0405e872ffa512c4ba2996e47bc53173/logo/AEGISBYTE-logo.png" alt="Aegisbyte logo" width="750"/>
+  <img src="https://raw.githubusercontent.com/aegisbyte/aegisbyte/01db3c8b0405e872ffa512c4ba2996e47bc53173/logo/AEGISBYTE-logo.png" alt="Aegisbyte logo" width="750"/>
 </p>
 <p align="center">
   <a href="https://github.com/dbt-labs/dbt-core/actions/workflows/main.yml">
