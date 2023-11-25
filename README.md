@@ -1,4 +1,3 @@
-### Aegisbyte🛡️
 <p align="center">
   <img src="https://raw.githubusercontent.com/aegisbyte/aegisbyte/01db3c8b0405e872ffa512c4ba2996e47bc53173/logo/AEGISBYTE-logo.png" alt="Aegisbyte logo" width="750"/>
 </p>
