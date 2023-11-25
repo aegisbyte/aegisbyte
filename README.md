@@ -8,7 +8,7 @@
   </a>
 </p>
 
-**[dbt](https://www.getdbt.com/)** enables data analysts and engineers to transform their data using the same practices that software engineers use to build applications.
+**[Aegisbyte](https://www.aegisbyte.com/)** was founded as a Service-Disabled Veteran-Owned Business (SDVOB) and a Minority-Owned Enterprise, Aegisbyte brings a rare confluence of military expertise and business acumen on the cybersecurity landscape. With 90% of our security engineers and operations staff holding military backgrounds, Aegisbyte is uniquely positioned to deliver unparalleled security solutions.
 
 ![architecture](https://github.com/dbt-labs/dbt-core/blob/202cb7e51e218c7b29eb3b11ad058bd56b7739de/etc/dbt-transform.png)
 
